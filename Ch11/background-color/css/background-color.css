@@ -2,14 +2,14 @@ body
 {
     background-color: rgb(200,200,200);
     color: white;
-    padding: 20px;
+    padding: 20px;  /* 박스와 텍스트 사이에 내부 여백을 추가함 */
     font-family: Arial, Verdana, sans-serif;
 }
 
 h1
 {
     background-color: DarkCyan;
-    padding: inherit;
+    padding: inherit;   /* Inherits this property from its parent element. */
 }
 
 h2
