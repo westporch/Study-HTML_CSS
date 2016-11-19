@@ -10,7 +10,7 @@ body
 h1
 {
     background-color: DarkCyan;
-    padding: inherit;
+    padding: inherit;   /* 부모 요소로부터 값을 상속받음. */
 }
 
 h2
